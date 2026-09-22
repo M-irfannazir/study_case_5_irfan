@@ -37,7 +37,7 @@ while True memastikan jam_keluar lebih besar dari jam_masuk, sehingga lama_parki
 
 7. total_biaya = hitung_biaya_parkir(jenis_kendaraan, lama_parkir)
 
-Ini pemanggilan function — mengirim data yang sudah divalidasi ke function, lalu menyimpan hasil return-nya ke variabel total_biaya.
+Pemanggilan function (mengirim data yang sudah divalidasi ke function, lalu menyimpan hasil return-nya ke variabel total_biaya.)
 
 8. Print(f"...")
 
